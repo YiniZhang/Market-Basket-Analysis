@@ -2,4 +2,4 @@
 Big Data Analysis 
 
 
-![wordcloud]("./figs/wordcloud.png")
+![wordcloud](./figs/wordcloud.png)
